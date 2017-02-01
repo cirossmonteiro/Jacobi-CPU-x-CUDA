@@ -13,4 +13,4 @@ Obs.: once you start tester1, make sure you stop/close the program in the middle
 
 5) Execute "python analyze1.py" and take a look at the results.
 
-Obs.: x-axis is the size of matrix, y->axis is the time elapsed.
+Obs.: x-axis is the size of matrix, y-axis is the time elapsed.
