@@ -12,3 +12,5 @@ A C code of Jacobi method for solving linear system.
 Obs.: once you start tester1, make sure you stop/close the program in the middle of the 100-iterations step, so you can be sure that there'll be a file to read.
 
 5) Execute "python analyze1.py" and take a look at the results.
+
+Obs.: x-axis is the size of matrix, y->axis is the time elapsed.
